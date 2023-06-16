@@ -1,0 +1,11 @@
+numpy
+typing
+tqdm
+torch
+torchvision
+dataclasses
+cython
+git+https://github.com/salaniz/pycocoevalcap.git
+transformers
+einops
+einops_exts
