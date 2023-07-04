@@ -1,10 +1,15 @@
 # ImageCaptioningUsing_OpenAI_CLIP-Vit-and-Facebook-opt
 
 This repository contains code for an image captioning project that uses OpenAI CLIP-ViT and Facebook opt.
+
 Requirements
+
 Python 3.8+
+
 PyTorch 1.10+
+
 OpenAI CLIP
+
 Facebook opt
 
 Installation
